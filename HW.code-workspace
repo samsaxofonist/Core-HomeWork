@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/VCCode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Core-HW1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Core-HomeWork"
+	}
+}
